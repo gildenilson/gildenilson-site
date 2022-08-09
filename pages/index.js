@@ -12,8 +12,8 @@ export default function Home() {
 
       <main>
         <Header title="Seja bem vindo!" />
-        <p className="material disponivel no link:">
-          Get started by editing <code>pages/index.js</code>
+        <p className="description">
+          Acesse o material aqui: <code>pages/index.js</code>
         </p>
       </main>
 
